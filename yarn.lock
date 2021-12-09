@@ -9030,6 +9030,11 @@
   "resolved" "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   "version" "0.0.6"
 
+"typesafe-actions@^5.1.0":
+  "integrity" "sha512-bna6Yi1pRznoo6Bz1cE6btB/Yy8Xywytyfrzu/wc+NFW3ZF0I+2iCGImhBsoYYCOWuICtRO4yHcnDlzgo1AdNg=="
+  "resolved" "https://registry.npmjs.org/typesafe-actions/-/typesafe-actions-5.1.0.tgz"
+  "version" "5.1.0"
+
 "uglify-js@^3.1.4", "uglify-js@3.4.x":
   "integrity" "sha512-Y2VsbPVs0FIshJztycsO2SfPk7/KAF/T72qzv9u5EpQ4kB2hQoHlhNQTsNyy6ul7lQtqJN/AoWeS23OzEiEFxw=="
   "resolved" "https://registry.npmjs.org/uglify-js/-/uglify-js-3.4.10.tgz"

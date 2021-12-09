@@ -5,7 +5,10 @@ const initialState = {
 };
 
 export const fetchGreeting = () => async (dispatch) => {
-  const response = await fetch('http://localhost:3000/api/greetings');
+  const response = await fetch(
+    'https://thawing-beyond-81828.herokuapp.com/api/greetings',
+  );
+
   const text = await response.json();
 
   dispatch({
